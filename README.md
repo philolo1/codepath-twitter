@@ -31,5 +31,5 @@ My major issue was that i tried to do autolayout and add the controls in sublayo
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+(![Video Walkthrough](https://github.com/philolo1/rottentomatoes/blob/master/twitter-gif.gif)
 
